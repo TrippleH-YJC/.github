@@ -7,7 +7,8 @@
 
 </br>
 
-![members-pic](./members.png)
+![image](https://github.com/TrippleH-YJC/.github/assets/75352656/6989ca6e-821a-4dc2-b4c4-59690cce7445)
+
 
 ## Repository
 ### 1. RCCar
