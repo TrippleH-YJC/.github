@@ -5,6 +5,10 @@
 | :---: | :---: | :---: | :---: |
 | GitHub | [Link](https://github.com/h78749891) | [Link](https://github.com/chyuk98) | [Link](https://github.com/ChocoBreeze) |
 
+</br>
+
+![members-pic](./members.png)
+
 ## Repository
 ### 1. RCCar
 - narrow drive
